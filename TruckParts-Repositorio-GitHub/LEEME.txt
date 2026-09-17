@@ -1,0 +1,9 @@
+# TruckParts S.A.C. — Sistema Omnicanal de Repuestos
+
+Repositorio de documentación y gestión ágil del proyecto omnicanal de venta e importación de repuestos para camiones de carga pesada.
+
+- **Documentación principal:** [README.md](README.md)
+- **Tablero Kanban:** Azure Boards
+- **CI/CD:** Azure DevOps Pipelines ↔ GitHub
+
+> Paquete listo para abrir en GitHub. Copia todos los archivos de esta carpeta dentro de tu repositorio.

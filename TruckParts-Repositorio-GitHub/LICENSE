@@ -1,0 +1,28 @@
+Licencia de Uso Interno — TruckParts S.A.C.
+===========================================
+
+Copyright (c) 2026 TruckParts S.A.C. — Proyecto Importex
+
+Todos los derechos reservados.
+
+Este repositorio y su documentación (incluyendo el archivo README.md, los
+diagramas de arquitectura, el tablero Kanban, la matriz RACI y los demás
+documentos técnicos y de gestión) constituyen material de uso INTERNO y
+ACADÉMICO del equipo de TruckParts S.A.C. para el proyecto encargado por
+Importex.
+
+Condiciones:
+
+1. El contenido no puede ser copiado, distribuido, publicado ni reutilizado,
+   total o parcialmente, sin autorización previa y por escrito del
+   Scrum Master / Tech Lead del proyecto (Empleado 1).
+2. El material se entrega exclusivamente para fines de gestión de proyecto,
+   evaluación académica y consulta interna del equipo.
+3. Toda contribución al repositorio debe respetar los estándares definidos en
+   la sección "Estándares de contribución" del README.md.
+4. El software, los datos de clientes y la información financiera asociada se
+   rigen además por la Ley N.° 29733 (Ley de Protección de Datos Personales,
+   Perú) y por las políticas internas de seguridad de la información.
+
+Para consultas sobre el uso de este material, contactar al Scrum Master /
+Tech Lead a través del canal del equipo en Azure DevOps.
